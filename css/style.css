@@ -3,7 +3,7 @@
 html{
   left: 0 !important;
     background: white;
-      overflow-x:hidden;
+      overflow:hidden;
     -webkit-transition: background-color 300ms;
     transition: background-color 300ms;
     text-align: center;
@@ -18,7 +18,7 @@ html{
 }
 body {
 	background: white;
-  overflow-x:hidden;
+  overflow:hidden;
     -webkit-transition: background-color 300ms;
     transition: background-color 300ms;
     text-align: center;
@@ -58,7 +58,7 @@ color: #9e9e9e!important;
     padding-left: 24px;
     width: 100%;
     font-weight: 700;
-    
+
 }
 .menuNames a{
   color:white;
@@ -153,6 +153,10 @@ blockquote{
     height: 25px;
     margin-top: 19.5px;
     margin-left: 19.5px;
+}
+.sideMenuOverlay{
+   height: 100%;
+   width: 100%;
 }
 .sideMenu{
 	background-color:#13776E;

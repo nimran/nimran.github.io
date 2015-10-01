@@ -3,11 +3,11 @@ function init() {
 }
 
 function bindEvents() {
-    $('.card-face__avatar,.card-face__name').bind('touchend', function(e) {
-        
+    $('.sideMenuOverlay').bind('touchend', function(e) {
+        closeMenu();
     });
-    $('.card-face__avatar,.card-face__name').bind('click', function(e) {
-       
+    $('.sideMenuOverlay').bind('click', function(e) {
+       closeMenu();
     });
    
 }
@@ -33,19 +33,23 @@ function openDetails() {
 
 function openMenu() {
 
-    if($(".sideMenu").hasClass('page-left')){
-        $(".sideMenu").show();
-        $(".sideMenu").removeClass('page-left');
-        $(".sideMenu").addClass('page-center');
-    } else {
+    if($(".sideMenuOverlay").hasClass('page-left')){
 
-        $(".sideMenu").addClass('page-left');
-        $(".sideMenu").removeClass('page-center');
+        $(".sideMenuOverlay").show();
+        $(".sideMenuOverlay").removeClass('page-left');
+        $(".sideMenuOverlay").addClass('page-center');
+        
+    } else {
+        
+        $(".sideMenuOverlay").addClass('page-left');
+        $(".sideMenuOverlay").removeClass('page-center');
+
     }
 
 }
 function closeMenu(){
 
-        $(".sideMenu").addClass('page-left');
-        $(".sideMenu").removeClass('page-center');
+        $(".sideMenuOverlay").addClass('page-left');
+        $(".sideMenuOverlay").removeClass('page-center');
+        $(".c-hamburger--htla").removeClass('is-active');
 }
