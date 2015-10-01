@@ -1,0 +1,98 @@
+<html>
+
+<head>
+    <title> My Profile </title>
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/util.css">
+      <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      
+       <!--Import materialize.css-->
+      <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
+
+      <!--Let browser know website is optimized for mobile-->
+      <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+          <script type="text/javascript" src="js/materialize.js"></script>
+
+    <script type="text/javascript" src="js/app.js"></script>
+</head>
+
+<body>
+    <div id="fullScreen">
+        <div id="toolbar" height="192"  >
+            <div class="o-grid__item">
+                <button class="c-hamburger c-hamburger--htla">
+                    <span>toggle menu</span>
+                </button>
+            </div>
+        </div>
+        <div class="mainScreen page-center">
+
+            <div class="card-face__avatar">
+                <img src="images/imran.jpg" width="250" height="250" draggable="false" /></div>
+            <h2 class="card-face__name">Mohammed <strong>Imran</strong></h2>
+            <span class="card-face__title">Software Engineer</span>
+            <a href="mailto:nimrandev@gmail.com" style="text-decoration:none" class="card-face__title">nimrandev@gmail.com</a>
+            <a href="tel:+919791020690" style="text-decoration:none" class="card-face__title">+91-9791020690</a>
+
+            <div class="card-face-footer">
+                <a href="https://facebook.com/mohammedimran591" target="_blank" class="card-face__social"><img src="images/fb.svg" width="36" height="36" draggable="false" /></a>
+                <a href="http://stackoverflow.com/users/2017209/mohammed-imran-n?tab=profile" target="_blank" class="card-face__social"><img src="images/so.png" width="36" height="36" draggable="false" /></a>
+                <a href="https://in.linkedin.com/in/mohammedimran591" target="_blank" class="card-face__social"><img src="images/linkedin.png" width="36" height="36" draggable="false" /></a>
+                <a href="https://github.com/nimran" target="_blank" class="card-face__social"><img src="images/github.svg" width="36" height="36" draggable="false" /></a>
+            </div>
+
+        </div>
+        <div class="sideMenu page-left" style="display:none">
+                <ul >
+                    <li class="menuNames waves-effect waves-teal"> <img src="images/ic_profile.png" width="36" height="36" draggable="false" /><a>Profile</a></li>
+                    <li class="menuNames waves-effect waves-teal"> <img src="images/ic_exp.png" width="36" height="36" draggable="false" /><a>Experience</a></li>
+                    <li class="menuNames waves-effect waves-teal"> <img src="images/ic_projects.png" width="36" height="36" draggable="false" /><a> Projects</a></li>
+                    <li class="menuNames waves-effect waves-teal"> <img src="images/ic_skill.png" width="36" height="36" draggable="false" /><a>Skills</a></li>
+                    <li class="menuNames waves-effect waves-teal"> <img src="images/ic_edu.png" width="36" height="36" draggable="false" /><a>Education</a></li>
+                    <li class="menuNames waves-effect waves-teal"> <img src="images/ic_persona.png" width="36" height="36" draggable="false" /><a>Personal Details</a></li>
+                </ul>
+
+                    
+        
+        </div>
+
+        <div class="centerdiv page-right" >
+           
+        </div>
+    </div>
+    <footer class="page-footer">
+         <div class="footer-copyright">
+            <div class="container">
+            © 2014 Copyright Text
+            <a class="grey-text text-lighten-4 right" href="#!">More Links</a>
+            </div>
+          </div>
+      </footer>
+    <script>
+    init();
+    (function() {
+
+        "use strict";
+
+        var toggles = document.querySelectorAll(".c-hamburger");
+
+        for (var i = toggles.length - 1; i >= 0; i--) {
+            var toggle = toggles[i];
+            toggleHandler(toggle);
+        };
+
+        function toggleHandler(toggle) {
+            toggle.addEventListener("click", function(e) {
+                e.preventDefault();
+                openMenu();
+                (this.classList.contains("is-active") === true) ? this.classList.remove("is-active"): this.classList.add("is-active");
+            });
+        }
+
+    })();
+    </script>
+</body>
+
+</html>
