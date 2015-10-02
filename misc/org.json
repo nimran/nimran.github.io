@@ -1,0 +1,36 @@
+[
+    {
+        "orgName": "Sysvine",
+        "pic": "ic_sysvine",
+        "duration": "June 2013 - Til Date",
+        "position": "Software Engineer",
+        "responsibilities": [
+            "Engaged in the development of Mobile Application using PhoneGap",
+            "Responsibilities in designing the architecture the application and coded from specifications,analyzed,evaluated,tested and implemented complex mobile app",
+            "Ability to innovate and come up with new ideas especially around UX , user input and content delivery"
+        ]
+    },
+    {
+        "orgName": "Southern Info Systems",
+        "pic": "ic_sis",
+        "duration": "Dec 2012 - June 2013",
+        "position": "Software Intern",
+        "responsibilities": [
+            "Involved in the development of a Mobile Application.",
+            "Developing new/additional features in the product.",
+            "Came up with unique idea on implementing the app with unique features"
+        ]
+    },
+    {
+        "orgName": "SBMS",
+        "pic": "ic_sbms",
+        "duration": "Dec 2012 - June 2013",
+        "position": "Equity Trader",
+        "responsibilities": [
+            "Buying and selling stock at US stock exchanges on behalf of investors",
+            "Analyzing companies and trading opportunities in order to make trade decisions",
+            "Devising trading strategies",
+            "Monitoring markets and Reporting trading results"
+        ]
+    }
+]
