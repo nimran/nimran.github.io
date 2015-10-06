@@ -5985,20 +5985,7 @@ button.btn-floating {
     -o-transform: scale(0);
     transform: scale(0);
     pointer-events: none; }
-  .waves-effect.waves-light .waves-ripple {
-    background-color: rgba(255, 255, 255, 0.45); }
-  .waves-effect.waves-red .waves-ripple {
-    background-color: rgba(244, 67, 54, 0.7); }
-  .waves-effect.waves-yellow .waves-ripple {
-    background-color: rgba(255, 235, 59, 0.7); }
-  .waves-effect.waves-orange .waves-ripple {
-    background-color: rgba(255, 152, 0, 0.7); }
-  .waves-effect.waves-purple .waves-ripple {
-    background-color: rgba(156, 39, 176, 0.7); }
-  .waves-effect.waves-green .waves-ripple {
-    background-color: rgba(76, 175, 80, 0.7); }
-  .waves-effect.waves-teal .waves-ripple {
-    background-color: rgba(0, 150, 136, 0.7); }
+ 
 
 .waves-notransition {
   -webkit-transition: none !important;

@@ -87,7 +87,7 @@ blockquote {
 }
 
 #fullscreen {
-    background-color: #FF5252;
+    background-color: whitesmoke;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -470,4 +470,27 @@ blockquote {
 .card-face__stats:nth-of-type(3) {
     -webkit-animation-delay: 200ms;
     animation-delay: 200ms;
+}
+.skillHeading {
+    padding-left: 20px;
+    padding-top: 0px;
+    width: 100%;
+    min-height: 48px;
+    max-height: 48px;
+    font-size: 2rem;
+    font-weight: 700;
+    color: #757575;
+    -mox-box-flex: 0 0 48px;
+    -ms-flex: 0 0 48px;
+    -webkit-flex: 0 0 48px;
+    flex: 0 0 48px;
+    border-bottom: 1px solid #ddd;
+        text-align: center;
+}
+@media only screen and (max-width: 768px) {
+    body{
+             width: 100%;
+            left: 0%; 
+    }
+ 
 }
