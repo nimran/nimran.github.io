@@ -54,17 +54,33 @@
         <div class="projects-div page-right">Projects</div>
         <div class="skills-div page-right">
             <div class="row">
-                <div class="card hoverable" style="padding-left: 5;padding-right: 5;">
-                    <div class="skillHeading">Primary Skills</div>
-                    <div class="grid-example col s12 "><span class="flow-text"><img src="images/ic_android.png" class="responsive-img no-flex"></span></div>
-                    <div class="grid-example col s12 "><span class="flow-text"><img src="images/ic_phonegap.png" class="responsive-img no-flex"></span></div>
+                <div class="io-section-card hoverable">
+                    <div class="io-section-card-heading">Primary Skills</div>
+                    <div class="io-section-logos">
+                        <div class="img-wrap"><img src="images/ic_android.png" class="responsive-img no-flex">
+                            <h6>Android</h6></div>
+                        <div class="img-wrap"><img src="images/ic_phonegap.jpg" class="responsive-img no-flex">
+                            <h6>PhoneGap</h6></div>
+                    </div>
                 </div>
-                <div class="card hoverable" style="padding-left: 5;padding-right: 5;">
-                    <div class="skillHeading">Secondary Skills</div>
-                    <div class="grid-example col s12 m6"><span class="flow-text">I am full-width on mobile (col s12 m6)</span></div>
-                    <div class="grid-example col s12 m6"><span class="flow-text">I am full-width on mobile (col s12 m6)</span></div>
-                    <div class="grid-example col s12 m6"><span class="flow-text">I am full-width on mobile (col s12 m6)</span></div>
-                    <div class="grid-example col s12 m6"><span class="flow-text">I am full-width on mobile (col s12 m6)</span></div>
+            </div>
+            <div class="row">
+                <div class="io-section-card hoverable">
+                    <div class="io-section-card-heading">Secondary Skills</div>
+                    <div class="io-section-logos">
+                        <div class="img-wrap"><img src="images/ic_html.png" class="responsive-img no-flex">
+                            <h6>HTML</h6></div>
+                        <div class="img-wrap"><img src="images/ic_css.png" class="responsive-img no-flex">
+                            <h6>CSS</h6></div>
+                        <div class="img-wrap"><img src="images/ic_js.png" class="responsive-img no-flex">
+                            <h6>Javascript</h6></div>
+                        <div class="img-wrap"><img src="images/ic_apple.svg" class="responsive-img no-flex">
+                            <h6>iOS</h6></div>
+                        <div class="img-wrap"><img src="images/ic_parse.png" class="top-lg responsive-img no-flex">
+                            <h6>Parse</h6></div>
+                        <div class="img-wrap"><img src="images/ic_df.png" class="responsive-img no-flex">
+                            <h6>Dreamfactory</h6></div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -72,6 +88,12 @@
         <div class="personal-div page-right">Personal Details</div>
     </div>
     <script>
+    $(document).ready(function() {
+        $(document).on("contextmenu", function(e) {
+            if (e.target.nodeName != "INPUT" && e.target.nodeName != "TEXTAREA")
+                e.preventDefault();
+        });
+    });
     init();
     (function() {
 

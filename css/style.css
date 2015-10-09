@@ -487,6 +487,32 @@ blockquote {
     border-bottom: 1px solid #ddd;
         text-align: center;
 }
+.skillImages{
+    width: 50% !important;
+}
+.skillSecondary {
+    height: 100px;
+    width: 100px;
+}
+.io-section-card{
+    box-sizing: border-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    -ms-flex-direction: column;
+    -webkit-flex-direction: column;
+    flex-direction: column;
+    -mox-box-flex: 1 0 auto;
+    -ms-flex: 1 0 auto;
+    -webkit-flex: 1 0 auto;
+    flex: 1 0 auto;
+    box-shadow: 0 2px 4px rgba(0,0,0,.2);
+    width: 100%;
+    background-color: #fff;
+    margin-bottom: 20px;
+}
+
+
 @media only screen and (max-width: 768px) {
     body{
              width: 100%;
