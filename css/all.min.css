@@ -1,7 +1,5 @@
 @font-face {
     font-family: Material-Design-Icons;
-    src: url(../fonts/material-design-icons/Material-Design-Icons.eot?-g7cqhn);
-    src: url(../fonts/material-design-icons/Material-Design-Icons.eot?#iefix-g7cqhn) format("embedded-opentype"), url(../fonts/material-design-icons/Material-Design-Icons.woff?-g7cqhn) format("woff"), url(../fonts/material-design-icons/Material-Design-Icons.ttf?-g7cqhn) format("truetype"), url(../fonts/material-design-icons/Material-Design-Icons.svg?-g7cqhn#Material-Design-Icons) format("svg");
     font-weight: 400;
     font-style: normal
 }
