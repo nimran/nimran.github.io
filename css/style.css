@@ -545,6 +545,7 @@ margin-left: 20%;
     }
    .card-face__name{
         font-size: 30px;
+            padding: 10px 10px;
    }
    .card-face__title {
         font-size: 20px;
@@ -557,5 +558,8 @@ margin-left: 20%;
     }
     .profile-div, .experience-div, .projects-div, .skills-div, .education-div, .personal-div {
         top:56px;
+    }
+    .card-face-footer {
+        margin-top: 10px;
     }
 }
