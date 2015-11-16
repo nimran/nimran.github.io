@@ -199,7 +199,7 @@ blockquote {
 .education-div,
 .personal-div {
     background-color: whitesmoke!important;
-    height: 92%;
+    height: 90%;
     width: 100%;
     position: absolute;
     display: inline-block;
@@ -350,10 +350,13 @@ blockquote {
     width: 200px;
     padding-top: 1%;
     height: 200px;
+    border-radius: 50%;
 }
 
 .card-face__avatar img {
-    border-radius: 50%;
+    
+    width: 200px;
+    height: 200px;
 }
 
 .card-face__name {
@@ -403,7 +406,7 @@ blockquote {
     content: "";
     width: 70px;
     height: 1px;
-    margin: 20px auto 0 auto;
+    margin: 5px auto 0 auto;
     display: block;
 }
 
@@ -534,4 +537,25 @@ margin-left: 20%;
             left: 0%; 
     }
  
+}
+@media screen and ( max-height: 590px ){
+    .card-face__avatar {
+        width: 150px;
+        height: 150px;
+    }
+   .card-face__name{
+        font-size: 30px;
+   }
+   .card-face__title {
+        font-size: 20px;
+    }
+    #toolbar {
+        height: 56px;
+    }
+    .c-hamburger {
+        height: 56px !important;
+    }
+    .profile-div, .experience-div, .projects-div, .skills-div, .education-div, .personal-div {
+        top:56px;
+    }
 }
