@@ -199,7 +199,7 @@ blockquote {
 .education-div,
 .personal-div {
     background-color: whitesmoke!important;
-    height: 90%;
+    height: Calc(100% - 64px);
     width: 100%;
     position: absolute;
     display: inline-block;
@@ -531,6 +531,7 @@ margin-left: 20%;
 .personalText{
     font-size: 14pt;
 }
+
 @media only screen and (max-width: 768px) {
     body{
              width: 100%;
@@ -558,8 +559,12 @@ margin-left: 20%;
     }
     .profile-div, .experience-div, .projects-div, .skills-div, .education-div, .personal-div {
         top:56px;
+        height: Calc(100% - 56px);
     }
     .card-face-footer {
         margin-top: 10px;
+    }
+    .section-logo {
+         margin-right: 5px !important; 
     }
 }
