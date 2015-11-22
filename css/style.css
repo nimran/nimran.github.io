@@ -430,7 +430,18 @@ blockquote {
     -webkit-animation-timing-function: cubic-bezier(0.23, 1, 0.32, 1);
     animation-timing-function: cubic-bezier(0.23, 1, 0.32, 1);
 }
-
+.card-face__social:hover
+{
+    -moz-transform: rotate(360deg);
+    -webkit-transform: rotate(360deg);
+    -ms--transform: rotate(360deg);
+    transform: rotate(360deg);
+    -webkit-transition: all 0.8s;
+    -moz-transition: all 0.8s;
+    -o-transition: all 0.8s;
+    -ms-transition: all 0.8s;
+    transition: all 0.8s;
+}
 .card-face__social:nth-child(1) {
     -webkit-animation-delay: 200ms;
     animation-delay: 200ms;
@@ -512,7 +523,7 @@ blockquote {
     box-shadow: 0 2px 4px rgba(0,0,0,.2);
     width: 100%;
     background-color: #fff;
-    margin-bottom: 20px;
+    margin-bottom: 0px !important;
 }
 
 .stickyfooter{
@@ -530,6 +541,10 @@ margin-left: 20%;
 }
 .personalText{
     font-size: 14pt;
+}
+.line-divider {
+    margin-bottom: 10px;
+    /*border-bottom: solid dotted #ff0000;*/
 }
 
 @media only screen and (max-width: 768px) {

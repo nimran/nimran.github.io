@@ -15,7 +15,9 @@
 </head>
 
 <body>
+    <!-- main -->
     <div id="fullScreen">
+        <!-- header -->
         <div id="toolbar" height="192">
             <div class="o-grid__item">
                 <button class="c-hamburger c-hamburger--htla">
@@ -24,6 +26,8 @@
             </div>
             <p id="headerText"></p>
         </div>
+        <!-- end of header -->
+        <!-- profile div -->
         <div class="profile-div page-center">
             <div class="info-profile" style="height: Calc(100% - 40px);">
                 <img src="images/imran.jpg" class="card-face__avatar" draggable="false" />
@@ -32,125 +36,153 @@
                 <a href="mailto:nimrandev@gmail.com" style="text-decoration:none" class="card-face__title">nimrandev@gmail.com</a>
                 <a href="tel:+919791020690" style="text-decoration:none" class="card-face__title">+91-9791020690</a>
                 <div class="card-face-footer">
-                    <a href="https://facebook.com/mohammedimran591" target="_blank" class="card-face__social"><img src="images/fb.svg" width="36" height="36" draggable="false" /></a>
-                    <a href="http://stackoverflow.com/users/2017209/mohammed-imran-n?tab=profile" target="_blank" class="card-face__social"><img src="images/so.png" width="36" height="36" draggable="false" /></a>
-                    <a href="https://in.linkedin.com/in/mohammedimran591" target="_blank" class="card-face__social"><img src="images/linkedin.png" width="36" height="36" draggable="false" /></a>
-                    <a href="https://github.com/nimran" target="_blank" class="card-face__social"><img src="images/github.svg" width="36" height="36" draggable="false" /></a>
-                    
-                </div>
-               
-                <!-- <footer class ="page-footer example stickyfooter">
-                    <div class="footer-copyright">
-                <div class="container" style="text-align:center">
-                Developed with &hearts;
-                </div>
-              </div>
+                    <a href="https://facebook.com/mohammedimran591" target="_blank" class="card-face__social "><img src="images/ic_fb.png" width="36" height="36" draggable="false" /></a>
+                    <a href="http://stackoverflow.com/users/2017209/mohammed-imran-n?tab=profile" target="_blank" class="card-face__social "><img src="images/ic_so.png" width="36" height="36" draggable="false" /></a>
+                    <a href="https://in.linkedin.com/in/mohammedimran591" target="_blank" class="card-face__social "><img src="images/ic_li.png" width="36" height="36" draggable="false" /></a>
+                    <a href="https://github.com/nimran" target="_blank" class="card-face__social "><img src="images/ic_git.png" width="36" height="36" draggable="false" /></a>
 
-                </footer> -->
+                </div>
             </div>
-
         </div>
+        <!-- end of profile -->
+        <!-- menu's -->
         <div class="sideMenuOverlay page-left" style="display:none">
             <div class="sideMenu">
                 <ul>
                     <li class="menuNames waves-effect waves-teal" id="profile-menu" onclick="toggleMenu(this)"> <img src="images/ic_profile.png" width="36" height="36" draggable="false" /><a>Profile</a></li>
                     <li class="menuNames waves-effect waves-teal" id="experience-menu" onclick="toggleMenu(this)"> <img src="images/ic_exp.png" width="36" height="36" draggable="false" /><a>Experience</a></li>
-<!--                     <li class="menuNames waves-effect waves-teal" id="projects-menu" onclick="toggleMenu(this)"> <img src="images/ic_projects.png" width="36" height="36" draggable="false" /><a> Projects</a></li>
- -->                    <li class="menuNames waves-effect waves-teal" id="skills-menu" onclick="toggleMenu(this)"> <img src="images/ic_skill.png" width="36" height="36" draggable="false" /><a>Skills</a></li>
+                    <!--                     <li class="menuNames waves-effect waves-teal" id="projects-menu" onclick="toggleMenu(this)"> <img src="images/ic_projects.png" width="36" height="36" draggable="false" /><a> Projects</a></li>
+ -->
+                    <li class="menuNames waves-effect waves-teal" id="skills-menu" onclick="toggleMenu(this)"> <img src="images/ic_skill.png" width="36" height="36" draggable="false" /><a>Skills</a></li>
                     <li class="menuNames waves-effect waves-teal" id="personal-menu" onclick="toggleMenu(this)"> <img src="images/ic_persona.png" width="36" height="36" draggable="false" /><a>Personal Details</a></li>
                 </ul>
             </div>
         </div>
+        <!-- end of menu -->
+        <!-- Experience  -->
         <div class="experience-div page-right"></div>
+        <!-- end of experience -->
+        <!-- projects -->
         <div class="projects-div page-right">Confidential</div>
+        <!-- End of projects -->
+        <!-- Skills -->
         <div class="skills-div page-right">
             <div class="row">
-                <div class="io-section-card hoverable">
-                    <div class="io-section-card-heading">Primary Skills</div>
-                    <div class="io-section-logos">
-                        <div class="img-wrap"><img src="images/ic_android.png" class="responsive-img no-flex">
-                            <h6>Android</h6></div>
-                        <div class="img-wrap"><img src="images/ic_phonegap.jpg" class="responsive-img no-flex">
-                            <h6>PhoneGap</h6></div>
+                <div class="col s12">
+                    <div class="card hoverable">
+                        <div class="io-section-card">
+                            <div class="io-section-card-heading">Primary Skills</div>
+                            <div class="io-section-logos">
+                                <div class="img-wrap"><img src="images/ic_android.png" class="responsive-img no-flex">
+                                    <h6>Android</h6></div>
+                                <div class="img-wrap"><img src="images/ic_phonegap.jpg" class="responsive-img no-flex">
+                                    <h6>PhoneGap</h6></div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="io-section-card hoverable">
-                    <div class="io-section-card-heading">Secondary Skills</div>
-                    <div class="io-section-logos">
-                        <div class="img-wrap"><img src="images/ic_html.png" class="responsive-img no-flex">
-                            <h6>HTML</h6></div>
-                        <div class="img-wrap"><img src="images/ic_css.png" class="responsive-img no-flex">
-                            <h6>CSS</h6></div>
-                        <div class="img-wrap"><img src="images/ic_js.png" class="responsive-img no-flex">
-                            <h6>Javascript</h6></div>
-                        <div class="img-wrap"><img src="images/ic_apple.svg" class="responsive-img no-flex">
-                            <h6>iOS</h6></div>
-                        <div class="img-wrap"><img src="images/ic_parse.png" class="top-lg responsive-img no-flex">
-                            <h6>Parse</h6></div>
-                        <div class="img-wrap"><img src="images/ic_df.png" class="responsive-img no-flex">
-                            <h6>Dreamfactory</h6></div>
+                <div class="col s12">
+                    <div class="card hoverable">
+                        <div class="io-section-card">
+                            <div class="io-section-card-heading">Secondary Skills</div>
+                            <div class="io-section-logos">
+                                <div class="img-wrap"><img src="images/ic_html.png" class="responsive-img no-flex">
+                                    <h6>HTML</h6></div>
+                                <div class="img-wrap"><img src="images/ic_css.png" class="responsive-img no-flex">
+                                    <h6>CSS</h6></div>
+                                <div class="img-wrap"><img src="images/ic_js.png" class="responsive-img no-flex">
+                                    <h6>Javascript</h6></div>
+                                <div class="img-wrap"><img src="images/ic_apple.svg" class="responsive-img no-flex">
+                                    <h6>iOS</h6></div>
+                                <div class="img-wrap"><img src="images/ic_parse.png" class="top-lg responsive-img no-flex">
+                                    <h6>Parse</h6></div>
+                                <div class="img-wrap"><img src="images/ic_df.png" class="responsive-img no-flex">
+                                    <h6>Dreamfactory</h6></div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
-        
+        <!-- End of Skill -->
+        <!-- Personal -->
         <div class="personal-div page-right">
             <div class="row">
-                <div class="io-section-card hoverable">
-                    <div class="io-section-card-heading">Education</div>
-                    <div class="io-section has-cards " >
-                        <div class="io-section-heading-xs ng-scope">
-                            <div class="io-section-heading-top">
-                                <div class="section-logo"></div>
-                                <div class="section-title">Anna University</div>
-                                <div class="section-date grey-text text-darken-1"><span class="">2012</span></div>
-                            </div>
-                            <div class="io-section-heading-bottom">
-                                <div class="section-subtitle"><span class="pink-text">Computer Science Engineering</span></div>
-                            </div>
-                        </div>
-
-                    </div>
-                </div>
-            <div class="row">
-                <div class="io-section-card hoverable">
-                    <div class="io-section-card-heading">Certifications</div>
-                    <div class="io-section has-cards " >
-                        <div class="io-section-heading-xs ng-scope">
-                            <div class="io-section-heading-top">
-                                <div class="section-logo"></div>
-                                <div class="section-title">Microsoft professional in HTML5 with JavaScript and CSS3</div>
-                            </div>
-                            <div class="io-section-heading-bottom">
-                                <div class="section-subtitle"><span class="pink-text"></span></div>
+                <div class="col s12">
+                    <div class="card hoverable">
+                        <div class="io-section-card">
+                            <div class="io-section-card-heading">Education</div>
+                            <div class="io-section has-cards ">
+                                <div class="io-section-heading-xs ng-scope">
+                                    <div class="io-section-heading-top">
+                                        <div class="section-logo"></div>
+                                        <div class="section-title">Anna University</div>
+                                        <div class="section-date grey-text text-darken-1"><span class="">2012</span></div>
+                                    </div>
+                                    <div class="io-section-heading-bottom">
+                                        <div class="section-subtitle"><span class="pink-text">Computer Science Engineering</span></div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>
             <div class="row">
-                <div class="io-section-card hoverable">
-                    <div class="io-section-card-heading">Personal Details</div>
-                    <div class="io-section has-cards " >
-                        <div class="io-section-heading-xs ng-scope">
-                            <ul>
-                            <!-- <li><i class="fa fa-circle pink-text personalText " style="width:100">Father's Name</i><span class="personalVal" style="width:40%">Nazeer Basha Y</span></li>
-                            <li><i class="fa fa-circle pink-text personalText">Date of Birth</i><span class="personalVal" >20<sup>th</sup> May 1991</span></li>
-                            <li><i class="fa fa-circle pink-text personalText">Residential Address</i><span class="personalVal" >116/A, Balaji Nagar <br>
-3 rd Main Road, Anakaputhur<br>
-Chennai-600070</span></li>
-                            <li><i class="fa fa-circle pink-text personalText">Alternate Email</i><span class="personalVal" >mohammedimrancse1@gmail.com</span></li>
-                            </ul> -->
+                <div class="col s12">
+                    <div class="card hoverable">
+                        <div class="io-section-card">
+                            <div class="io-section-card-heading">Certifications</div>
+                            <div class="io-section has-cards ">
+                                <div class="io-section-heading-xs ng-scope">
+                                    <div class="io-section-heading-top">
+                                        <div class="section-logo"></div>
+                                        <div class="section-title">Microsoft professional in HTML5 with JavaScript and CSS3</div>
+                                    </div>
+                                    <div class="io-section-heading-bottom">
+                                        <div class="section-subtitle"><span class="pink-text"></span></div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
-
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col s12">
+                    <div class="card hoverable">
+                        <div class="io-section-card">
+                            <div class="io-section-card-heading">Personal Details</div>
+                            <div class="io-section has-cards ">
+                                <div class="io-section-heading-xs ng-scope">
+                                    <div class="row">
+                                        <div class="col s12 line-divider">
+                                            <div class="col s4" style="font-weight: 700;">Father Name</div>
+                                            <div class="col s8" style="color: #757575 !important;font-weight: 700;">Y Nazeer Basha</div>
+                                        </div>
+                                        <div class="col s12 line-divider">
+                                            <div class="col s4" style="font-weight: 700;">Relationship Status</div>
+                                            <div class="col s8" style="color: #757575 !important;font-weight: 700;">Single</div>
+                                        </div>
+                                        <div class="col s12 line-divider">
+                                            <div class="col s4" style="font-weight: 700;">Address</div>
+                                            <div class="col s8" style="color: #757575 !important;font-weight: 700;">116/A, Balaji Nagar,
+                                                <br>3 rd Main Road, Anakaputhur,
+                                                <br>Chennai-600070</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
         </div>
+        <!-- End of personal -->
     </div>
+    <!-- End of main div -->
     <script>
     $(document).ready(function() {
         $(document).on("contextmenu", function(e) {
