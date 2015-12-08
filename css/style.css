@@ -354,7 +354,6 @@ blockquote {
 }
 
 .card-face__avatar img {
-    
     width: 200px;
     height: 200px;
 }
@@ -430,8 +429,8 @@ blockquote {
     -webkit-animation-timing-function: cubic-bezier(0.23, 1, 0.32, 1);
     animation-timing-function: cubic-bezier(0.23, 1, 0.32, 1);
 }
-.card-face__social:hover
-{
+
+.card-face__social:hover {
     -moz-transform: rotate(360deg);
     -webkit-transform: rotate(360deg);
     -ms--transform: rotate(360deg);
@@ -442,6 +441,7 @@ blockquote {
     -ms-transition: all 0.8s;
     transition: all 0.8s;
 }
+
 .card-face__social:nth-child(1) {
     -webkit-animation-delay: 200ms;
     animation-delay: 200ms;
@@ -485,6 +485,7 @@ blockquote {
     -webkit-animation-delay: 200ms;
     animation-delay: 200ms;
 }
+
 .skillHeading {
     padding-left: 20px;
     padding-top: 0px;
@@ -499,16 +500,19 @@ blockquote {
     -webkit-flex: 0 0 48px;
     flex: 0 0 48px;
     border-bottom: 1px solid #ddd;
-        text-align: center;
+    text-align: center;
 }
-.skillImages{
+
+.skillImages {
     width: 50% !important;
 }
+
 .skillSecondary {
     height: 100px;
     width: 100px;
 }
-.io-section-card{
+
+.io-section-card {
     box-sizing: border-box;
     display: -ms-flexbox;
     display: -webkit-flex;
@@ -520,50 +524,100 @@ blockquote {
     -ms-flex: 1 0 auto;
     -webkit-flex: 1 0 auto;
     flex: 1 0 auto;
-    box-shadow: 0 2px 4px rgba(0,0,0,.2);
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .2);
     width: 100%;
     background-color: #fff;
     margin-bottom: 0px !important;
 }
 
-.stickyfooter{
-     position: fixed !important;
-      background-color: #ee6e73 !important;
-    bottom: 0 ;
+.stickyfooter {
+    position: fixed !important;
+    background-color: #ee6e73 !important;
+    bottom: 0;
     width: 100%;
 }
-.personalKey{
+
+.personalKey {
     width: 40%;
 }
-.personalVal{
-width: 40%;
-margin-left: 20%;
+
+.personalVal {
+    width: 40%;
+    margin-left: 20%;
 }
-.personalText{
+
+.personalText {
     font-size: 14pt;
 }
+
 .line-divider {
     margin-bottom: 10px;
     /*border-bottom: solid dotted #ff0000;*/
 }
 
-@media only screen and (max-width: 768px) {
-    body{
-             width: 100%;
-            left: 0%; 
-    }
- 
+.loadFade {
+   animation: fadein 2s;
+   -moz-animation: fadein 2s;/* Firefox */
+   -webkit-animation: fadein 2s;/* Safari and Chrome */
+   -o-animation: fadein 2s;/* Opera */
 }
-@media screen and ( max-height: 590px ){
+
+@keyframes fadein {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@-moz-keyframes fadein {
+    /* Firefox */
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@-webkit-keyframes fadein {
+    /* Safari and Chrome */
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@-o-keyframes fadein {
+    /* Opera */
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    body {
+        width: 100%;
+        left: 0%;
+    }
+}
+
+@media screen and ( max-height: 590px) {
     .card-face__avatar {
         width: 150px;
         height: 150px;
     }
-   .card-face__name{
+    .card-face__name {
         font-size: 30px;
-            padding: 10px 10px;
-   }
-   .card-face__title {
+        padding: 10px 10px;
+    }
+    .card-face__title {
         font-size: 20px;
     }
     #toolbar {
@@ -572,14 +626,19 @@ margin-left: 20%;
     .c-hamburger {
         height: 56px !important;
     }
-    .profile-div, .experience-div, .projects-div, .skills-div, .education-div, .personal-div {
-        top:56px;
+    .profile-div,
+    .experience-div,
+    .projects-div,
+    .skills-div,
+    .education-div,
+    .personal-div {
+        top: 56px;
         height: Calc(100% - 56px);
     }
     .card-face-footer {
         margin-top: 10px;
     }
     .section-logo {
-         margin-right: 5px !important; 
+        margin-right: 5px !important;
     }
 }
