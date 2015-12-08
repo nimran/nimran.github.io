@@ -1,4 +1,5 @@
 function init() {
+    
     renderMenu();
     bindEvents();
     renderAboutMe();
@@ -59,6 +60,7 @@ function toggleMenu(ele) {
     var headerText = eleId[0].toUpperCase() + eleId.slice(1);
     if (eleId == "profile") {
         headerText = "";
+        ga('send', 'pageview', '/profile');
     }
     $("#headerText").val("");
     $("#headerText").text(headerText);
@@ -81,12 +83,13 @@ function toggleMenu(ele) {
     $("." + eleClass).removeClass('page-right');
     if (eleId == "experience") {
         renderExp();
+        ga('send', 'pageview', '/experience');
     }else if(eleId == "skills"){
         renderSkills();
+        ga('send', 'pageview', '/skills');
     }else if(eleId == "personal"){
         // renderPersonal();
-    }else if(eleId == "profile"){
-        // renderProfile();
+        ga('send', 'pageview', '/personal');
     }
 
 
