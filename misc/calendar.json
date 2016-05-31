@@ -7,11 +7,11 @@
             "time": "10:00",
             "title": "Swami Desikar Thirunakshtram",
             "imageUrl": "www.google.com",
+            "eventColor": "yellow",
             "details": {
                 "tamilMonth": "Purataasi",
                 "Purataasi": "thiruvonam",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-                "eventColor": "yellow"
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
             }
         },
         {
@@ -19,23 +19,11 @@
             "time": "10:00",
             "title": "Swami Desikar Thirunakshtram",
             "imageUrl": "www.google.com",
+            "eventColor": "yellow",
             "details": {
                 "tamilMonth": "Purataasi",
                 "Purataasi": "thiruvonam",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-                "eventColor": "yellow"
-            }
-        },
-        {
-            "date": "10-10-2016",
-            "time": "10:00",
-            "title": "Swami Desikar Thirunakshtram",
-            "imageUrl": "www.google.com",
-            "details": {
-                "tamilMonth": "Purataasi",
-                "Purataasi": "thiruvonam",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-                "eventColor": "yellow"
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
             }
         }
     ]
