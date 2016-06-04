@@ -10,7 +10,7 @@
             "eventColor": "yellow",
             "details": {
                 "tamilMonth": "Purataasi",
-                "Purataasi": "thiruvonam",
+                "star": "thiruvonam",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
             }
         },
@@ -22,7 +22,7 @@
             "eventColor": "yellow",
             "details": {
                 "tamilMonth": "Purataasi",
-                "Purataasi": "thiruvonam",
+                "star": "thiruvonam",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
             }
         }
