@@ -3,7 +3,7 @@
     "version": "1",
     "events": [
         {
-            "date": "10-10-2016",
+            "date": "2016-06-01",
             "time": "10:00",
             "title": "Swami Desikar Thirunakshtram",
             "imageUrl": "www.google.com",
@@ -15,7 +15,32 @@
             }
         },
         {
-            "date": "10-10-2016",
+            "date": "2016-06-04",
+            "time": "10:00",
+            "title": "Swami Desikar Thirunakshtram",
+            "imageUrl": "www.google.com",
+            "eventColor": "yellow",
+            "details": {
+                "tamilMonth": "Purataasi",
+                "star": "thiruvonam",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+            }
+        },
+        
+        {
+            "date": "2016-06-05",
+            "time": "10:00",
+            "title": "Swami Desikar Thirunakshtram",
+            "imageUrl": "www.google.com",
+            "eventColor": "yellow",
+            "details": {
+                "tamilMonth": "Purataasi",
+                "star": "thiruvonam",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+            }
+        },
+        {
+            "date": "2016-06-09",
             "time": "10:00",
             "title": "Swami Desikar Thirunakshtram",
             "imageUrl": "www.google.com",
