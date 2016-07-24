@@ -3,7 +3,7 @@
     "version": "1",
     "events": [
         {
-            "date": "2016-06-01",
+            "date": "2016-07-24",
             "time": "10:00",
             "title": "Swami Desikar Thirunakshtram",
             "imageUrl": "www.google.com",
@@ -15,7 +15,7 @@
             }
         },
         {
-            "date": "2016-06-04",
+            "date": "2016-07-25",
             "time": "10:00",
             "title": "Swami Desikar Thirunakshtram",
             "imageUrl": "www.google.com",
@@ -28,7 +28,7 @@
         },
         
         {
-            "date": "2016-05-05",
+            "date": "2016-07-26",
             "time": "10:00",
             "title": "Swami Desikar Thirunakshtram",
             "imageUrl": "www.google.com",
@@ -40,7 +40,7 @@
             }
         },
         {
-            "date": "2016-06-09",
+            "date": "2016-07-28",
             "time": "10:00",
             "title": "Swami Desikar Thirunakshtram",
             "imageUrl": "www.google.com",
