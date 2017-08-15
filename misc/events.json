@@ -1,0 +1,123 @@
+{
+  "events": [{
+    "indoor": {
+      "description": "indoor events desc",
+        "events": [{
+            "name" : "Volleyball",
+            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+          },
+          {
+            "name" : "BasketBall",
+            "image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+          },
+          {
+            "name" : "Cricket",
+            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+          },
+          {
+            "name" : "Kabadi",
+            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+          },
+          {
+            "name" : "Swimming",
+            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+          },
+          {
+            "name" : "Tennis",
+            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+          }
+
+        ]
+      
+    }
+  },
+  {
+    "outdoor": {
+      "description": "Outdoor events desc",
+        "events": [{
+            "name" : "",
+            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+          },
+          {
+            "image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+          },
+          {
+            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+          },
+          {
+            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+          },
+          {
+            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+          },
+          {
+            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+          }
+
+        ]
+      
+    }
+  },{
+    "offline": {
+      "description": "offline events desc",
+        "events": [{
+            "name" : "",
+            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+          },
+          {
+            "image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+          },
+          {
+            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+          },
+          {
+            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+          },
+          {
+            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+          },
+          {
+            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+          }
+
+        ]
+      
+    }
+  }]
+}
