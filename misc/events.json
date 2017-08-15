@@ -1,7 +1,9 @@
 {
   "events": [{
     "indoor": {
-      "description": "indoor events desc",
+      "description": "We know that team building is primarily an outdoor activity but during rainy days and if the situation
+demands we are happy to lend a helping hand and organize indoor activities which suits your interests. <br>We have developed a series of indoor team building activities that retain an element of fun, but which
+are also capable of effectively developing team skills when that outcome is required",
         "events": [{
             "name" : "Volleyball",
             "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
@@ -45,7 +47,7 @@
   },
   {
     "outdoor": {
-      "description": "Outdoor events desc",
+      "description": "Outdoor games are developed in such a way that it provides the perfect platform on which your team can build a strong bond through shared experiences, fun and some friendly competition. <br> What better way to experience a memorable day than by participating in a fun, action packed outdoor team building activity?",
         "events": [{
             "name" : "",
             "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
@@ -82,8 +84,8 @@
       
     }
   },{
-    "offline": {
-      "description": "offline events desc",
+    "Athletics": {
+      "description": "Athletics events are mainly categorized into two sub sports Track and Field. We have specialized athletes who are well versed in various athletic events to provide support and guide throughout the day of the events. ",
         "events": [{
             "name" : "",
             "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
