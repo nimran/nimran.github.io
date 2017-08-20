@@ -7,7 +7,9 @@
 						"category": "Men",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+						"rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Table tennis",
