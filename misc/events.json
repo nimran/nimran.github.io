@@ -16,49 +16,63 @@
 						"category": "Women",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Chess",
 						"category": "Men",
 						"image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Chess",
 						"category": "Women",
 						"image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Free Style Swimming 100m",
 						"category": "Men",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Free Style Swimming 200m",
 						"category": "Men",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Free Style Swimming 100m",
 						"category": "Women",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Free Style Swimming 200m",
 						"category": "Women",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					}
 				]
 			}
@@ -71,77 +85,99 @@
 						"category": "Men",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Volleyball",
 						"category": "Men",
 						"image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Volleyball",
 						"category": "Women",
 						"image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Kabaddi",
 						"category": "Men",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Kabaddi",
 						"category": "Women",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Throw Ball",
 						"category": "Senior Women",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Throw Ball",
 						"category": "Super Senior Women",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Tug of War ",
 						"category": "Men",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Tug of War",
 						"category": "Mixed",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Kho-Kho",
 						"category": "Men",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Kho-Kho",
 						"category": "Women",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					}
 				]
 			}
@@ -154,62 +190,80 @@
 						"category": "Men",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Track Events",
 						"category": "Women",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Marathon",
 						"image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Field Events",
 						"category": "Men",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Field Events",
 						"category": "Women",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Triple Jump",
 						"category": "Men",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Triple Jump",
 						"category": "Women",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Discuss throw",
 						"category": "Men",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					},
 					{
 						"name": "Discuss throw",
 						"category": "Women",
 						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
 						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+            "rules": [
+              "Rule 1","rule 2","rule3"
+            ]
 					}
 				]
 			}
