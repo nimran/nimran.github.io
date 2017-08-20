@@ -1,220 +1,216 @@
 {
-  "events": [
-    {
-      "indoor": {
-        "description": "We know that team building is primarily an outdoor activity but during rainy days and if the situation demands we are happy to lend a helping hand and organize indoor activities which suits your interests.We have developed a series of indoor team building activities that retain an element of fun, but which are also capable of effectively developing team skills when that outcome is required.",
-        "events": [
-          {
-            "name": "Table tennis",
-            "category" : "Men",
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Table tennis",
-            "category" : "Women",
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Chess",
-            "category" : "Men",
-            "image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Chess",
-            "category" : "Women",
-            "image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Free Style Swimming 100m",
-            "category" : "Men",
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Free Style Swimming 200m",
-            "category" : "Men",
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Free Style Swimming 100m",
-            "category" : "Women",
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Free Style Swimming 200m",
-            "category" : "Women",
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          }
-        ]
-      }
-    },
-    {
-      "outdoor": {
-        "description": "Outdoor games are developed in such a way that it provides the perfect platform on which your team can build a strong bond through shared experiences, fun and some friendly competition. <br> What better way to experience a memorable day than by participating in a fun, action packed outdoor team building activity?",
-        "events": [
-          {
-            "name": "Football 5s",
-            "category" : "Men",
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Volleyball",
-            "category" : "Men",
-            "image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Volleyball",
-            "category" : "Women",
-            "image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Kabaddi",
-            "category" : "Men",
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Kabaddi",
-            "category" : "Women",
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Throw Ball",
-            "category":"Senior Women"
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Throw Ball",
-            "category":"Super Senior Women"
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Tug of War ",
-            "category" : "Men",
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Tug of War",
-            "category" : "Mixed",
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Kho-Kho",
-            "category" : "Men",
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Kho-Kho",
-            "category" : "Women",
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          }
-        ]
-      }
-    },
-    {
-      "Athletics": {
-        "description": "Athletics events are mainly categorized into two sub sports Track and Field. We have specialized athletes who are well versed in various athletic events to provide support and guide throughout the day of the events. ",
-        "events": [
-          {
-            "name": "Track Events",
-            "category" : "Men",
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Track Events",
-            "category" : "Women",
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Marathon",
-            "image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Field Events",
-            "category" : "Men",
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Field Events",
-            "category" : "Women",
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Triple Jump",
-            "category" : "Men",
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Triple Jump",
-            "category" : "Women",
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Discuss throw",
-            "category" : "Men",
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          },
-          {
-            "name": "Discuss throw",
-            "category" : "Women",
-            "image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
-            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-            "rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
-          }
-        ]
-      }
-    }
-  ]
+	"events": [{
+			"indoor": {
+				"description": "We know that team building is primarily an outdoor activity but during rainy days and if the situation demands we are happy to lend a helping hand and organize indoor activities which suits your interests.We have developed a series of indoor team building activities that retain an element of fun, but which are also capable of effectively developing team skills when that outcome is required.",
+				"events": [{
+						"name": "Table tennis",
+						"category": "Men",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Table tennis",
+						"category": "Women",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Chess",
+						"category": "Men",
+						"image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Chess",
+						"category": "Women",
+						"image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Free Style Swimming 100m",
+						"category": "Men",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Free Style Swimming 200m",
+						"category": "Men",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Free Style Swimming 100m",
+						"category": "Women",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Free Style Swimming 200m",
+						"category": "Women",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					}
+				]
+			}
+		},
+		{
+			"outdoor": {
+				"description": "Outdoor games are developed in such a way that it provides the perfect platform on which your team can build a strong bond through shared experiences, fun and some friendly competition. <br> What better way to experience a memorable day than by participating in a fun, action packed outdoor team building activity?",
+				"events": [{
+						"name": "Football 5s",
+						"category": "Men",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Volleyball",
+						"category": "Men",
+						"image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Volleyball",
+						"category": "Women",
+						"image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Kabaddi",
+						"category": "Men",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Kabaddi",
+						"category": "Women",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Throw Ball",
+						"category": "Senior Women",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Throw Ball",
+						"category": "Super Senior Women",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Tug of War ",
+						"category": "Men",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Tug of War",
+						"category": "Mixed",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Kho-Kho",
+						"category": "Men",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Kho-Kho",
+						"category": "Women",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					}
+				]
+			}
+		},
+		{
+			"Athletics": {
+				"description": "Athletics events are mainly categorized into two sub sports Track and Field. We have specialized athletes who are well versed in various athletic events to provide support and guide throughout the day of the events. ",
+				"events": [{
+						"name": "Track Events",
+						"category": "Men",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Track Events",
+						"category": "Women",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Marathon",
+						"image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Field Events",
+						"category": "Men",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Field Events",
+						"category": "Women",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Triple Jump",
+						"category": "Men",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Triple Jump",
+						"category": "Women",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Discuss throw",
+						"category": "Men",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					},
+					{
+						"name": "Discuss throw",
+						"category": "Women",
+						"image": "https://cdn.pixabay.com/photo/2016/08/23/19/03/volleyball-1615223_1280.jpg",
+						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+						"rules": "skjbfskjbkjdbjksbjkdbvkjbdjkvbdjkvd"
+					}
+				]
+			}
+		}
+	]
 }
