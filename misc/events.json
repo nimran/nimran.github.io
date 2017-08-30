@@ -1,320 +1,418 @@
 {
-	"events": [{
-			"indoor": {
-				"description": "We know that team building is primarily an outdoor activity but during rainy days and if the situation demands we are happy to lend a helping hand and organize indoor activities which suits your interests.We have developed a series of indoor team building activities that retain an element of fun, but which are also capable of effectively developing team skills when that outcome is required.",
-				"events": [{
-						"name": "Table tennis",
-						"category": "Men",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Table tennis",
-						"category": "Women",
-						"image": "images/indoor/tabletennis_women.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Chess",
-						"category": "Men",
-						"image": "images/indoor/chess_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only  Finals) ", "Best of 3 set, 15 points each set  (Minimum 2 players)", "Badminton rules will be followed as per international standard. For detail rules click here",
-							"Must bring  Badminton racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification "
-						]
-					},
-					{
-						"name": "Chess",
-						"image": "images/indoor/chess_women.jpg",
-						"image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Carrom",
-						"category": "Men",
-						"image": "images/indoor/carrom_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only  Finals) ", "Best of 3 set, 15 points each set  (Minimum 2 players)", "Badminton rules will be followed as per international standard. For detail rules click here",
-							"Must bring  Badminton racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification "
-						]
-					},
-					{
-						"name": "Carrom",
-						"image": "images/indoor/carrom_women.jpg",
-						"image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Free Style Swimming 100m",
-						"category": "Men",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Free Style Swimming 200m",
-						"category": "Men",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Free Style Swimming 100m",
-						"category": "Women",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Free Style Swimming 200m",
-						"category": "Women",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					}
-				]
-			}
-		},
-		{
-			"outdoor": {
-				"description": "Outdoor games are developed in such a way that it provides the perfect platform on which your team can build a strong bond through shared experiences, fun and some friendly competition. <br> What better way to experience a memorable day than by participating in a fun, action packed outdoor team building activity?",
-				"events": [{
-						"name": "Football 5s",
-						"category": "Men",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Volleyball",
-						"category": "Men",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Volleyball",
-						"category": "Women",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Kabaddi",
-						"category": "Men",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Kabaddi",
-						"category": "Women",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Throw Ball",
-						"category": "Senior Women",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Throw Ball",
-						"category": "Super Senior Women",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Tug of War ",
-						"category": "Men",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Tug of War",
-						"category": "Mixed",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Kho-Kho",
-						"category": "Men",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Kho-Kho",
-						"category": "Women",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					}
-				]
-			}
-		},
-		{
-			"Athletics": {
-				"description": "Athletics events are mainly categorized into two sub sports Track and Field. We have specialized athletes who are well versed in various athletic events to provide support and guide throughout the day of the events. ",
-				"events": [{
-						"name": "Track Events",
-						"category": "Men",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Track Events",
-						"category": "Women",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Marathon",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Field Events",
-						"category": "Men",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Field Events",
-						"category": "Women",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Triple Jump",
-						"category": "Men",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Triple Jump",
-						"category": "Women",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Discuss throw",
-						"category": "Men",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					},
-					{
-						"name": "Discuss throw",
-						"category": "Women",
-						"image": "images/indoor/tabletennis_men.jpg",
-						"description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
-						"rules": [
-							"Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
-							"Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
-						]
-					}
-				]
-			}
-		}
-	]
+  "events": [{
+      "indoor": {
+        "description": "We know that team building is primarily an outdoor activity but during rainy days and if the situation demands we are happy to lend a helping hand and organize indoor activities which suits your interests.We have developed a series of indoor team building activities that retain an element of fun, but which are also capable of effectively developing team skills when that outcome is required.",
+        "events": [{
+            "name": "Table tennis",
+            "category": "Men",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Table tennis",
+            "category": "Women",
+            "image": "images/indoor/tabletennis_women.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Chess",
+            "category": "Men",
+            "image": "images/indoor/chess_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only  Finals) ", "Best of 3 set, 15 points each set  (Minimum 2 players)", "Badminton rules will be followed as per international standard. For detail rules click here",
+              "Must bring  Badminton racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification "
+            ]
+          },
+          {
+            "name": "Chess",
+            "image": "images/indoor/chess_women.jpg",
+            "image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Carrom",
+            "category": "Men",
+            "image": "images/indoor/carrom_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only  Finals) ", "Best of 3 set, 15 points each set  (Minimum 2 players)", "Badminton rules will be followed as per international standard. For detail rules click here",
+              "Must bring  Badminton racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification "
+            ]
+          },
+          {
+            "name": "Carrom",
+            "image": "images/indoor/carrom_women.jpg",
+            "image": "https://cdn.pixabay.com/photo/2013/02/25/04/37/basketball-85919_1280.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Free Style Swimming 100m",
+            "category": "Men",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Free Style Swimming 200m",
+            "category": "Men",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Free Style Swimming 100m",
+            "category": "Women",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Free Style Swimming 200m",
+            "category": "Women",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "outdoor": {
+        "description": "Outdoor games are developed in such a way that it provides the perfect platform on which your team can build a strong bond through shared experiences, fun and some friendly competition. <br> What better way to experience a memorable day than by participating in a fun, action packed outdoor team building activity?",
+        "events": [{
+            "name": "Football 5s",
+            "category": "Men",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Volleyball",
+            "category": "Men",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Volleyball",
+            "category": "Women",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Kabaddi",
+            "category": "Men",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Kabaddi",
+            "category": "Women",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Throw Ball",
+            "category": "Senior Women",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Throw Ball",
+            "category": "Super Senior Women",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Tug of War ",
+            "category": "Men",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Tug of War",
+            "category": "Mixed",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Kho-Kho",
+            "category": "Men",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Kho-Kho",
+            "category": "Women",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "Athletics": {
+        "description": "Athletics events are mainly categorized into two sub sports Track and Field. We have specialized athletes who are well versed in various athletic events to provide support and guide throughout the day of the events. ",
+        "events": [{
+            "name": "Track Events",
+            "category": "Men",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Track Events",
+            "category": "Women",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Marathon",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Field Events",
+            "category": "Men",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Field Events",
+            "category": "Women",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Triple Jump",
+            "category": "Men",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Triple Jump",
+            "category": "Women",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Discuss throw",
+            "category": "Men",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Discuss throw",
+            "category": "Women",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          }
+        ]
+      }
+    },
+
+    {
+      "Offline": {
+        "description": "Offline events are mainly categorized into two sub sports Track and Field. We have specialized athletes who are well versed in various athletic events to provide support and guide throughout the day of the events. ",
+        "events": [{
+            "name": "Track Events",
+            "category": "Men",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Track Events",
+            "category": "Women",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Marathon",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Field Events",
+            "category": "Men",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Field Events",
+            "category": "Women",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Triple Jump",
+            "category": "Men",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Triple Jump",
+            "category": "Women",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Discuss throw",
+            "category": "Men",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          },
+          {
+            "name": "Discuss throw",
+            "category": "Women",
+            "image": "images/indoor/tabletennis_men.jpg",
+            "description": "sjfbjkfbdjkbfdkjkjdbvkjdbvkjdbvkdbvdbvdbvkjdbv",
+            "rules": [
+              "Format : 2 Singles +  1 Doubles  (Reverse Singles Only Finals) ", "Best of 5 set, 11 points each set  (Minimum 2 players) ", "TableTennis rules will be followed as per international standard. For detail rules click here",
+              "Must bring Table Tennis racket and sports costume recommended. If you don’t here you go…", "Referee’s  decision will be the final decision", "Any  act of misbehaviour will lead to disqualification."
+            ]
+          }
+        ]
+      }
+    }
+
+
+  ]
 }
