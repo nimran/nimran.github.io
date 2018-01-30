@@ -33,9 +33,7 @@
       var code = getQueryString('code'); // returns null
 
       <!-- Deep link URL for existing users with app already installed on their device -->
-      var finalDeeplink = 'kaki://join?'+sportId+'#'+code;
-      alert(finalDeeplink);
-      window.location = finalDeeplink;
+      window.location = 'kaki://join?'+sportId+'#'+code;
 
       <!-- Download URL for new users to download the app -->
       setTimeout("window.location = 'https://play.google.com/store/apps/details?id=app.kaki';", 1000);
