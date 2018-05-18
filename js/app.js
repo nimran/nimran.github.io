@@ -1,5 +1,5 @@
 function init() {
-    
+
     renderMenu();
     bindEvents();
     renderAboutMe();
@@ -139,7 +139,7 @@ function renderSkills() {
     var skills = '';
     var skillObj = '',
         skillItemsObj = '';
-    $(".skills-div").text("");   
+    $(".skills-div").text("");
     var skillsJson = '[{"SkillType":"Primary Skills","Items":[{"name":"Android","image":"images/ic_android.png"},{"name":"Phonegap","image":"images/ic_phonegap.png"}]},{"SkillType":"Secondary Skills","Items":[{"name":"HTML","image":"images/ic_html.png"},{"name":"CSS","image":"images/ic_css.png"},{"name":"Javascript","image":"images/ic_js.png"},{"name":"iOS","image":"images/ic_apple.svg"},{"name":"Parse","image":"images/ic_parse.png"},{"name":"Dreamfactory","image":"images/ic_df.png"}]}]';
     var skillsJsonObj = JSON.parse(skillsJson);
     for (var i = 0; i < skillsJsonObj.length; i++) {
@@ -157,9 +157,18 @@ function renderSkills() {
     }
     $(".skills-div").append(skills);
 }
-
+function getAge(dateString) {
+    var today = new Date();
+    var birthDate = new Date(dateString);
+    var age = today.getFullYear() - birthDate.getFullYear();
+    var m = today.getMonth() - birthDate.getMonth();
+    if (m < 0 || (m === 0 && today.getDate() < birthDate.getDate())) {
+        age--;
+    }
+    return age;
+}
 function renderAboutMe(){
-    var aboutMe ='My name is <b>Imran</b>, and I am 25 years old, Software Developer from Chennai who has been in the field for 3 years and counting.<br> I am a person who has interest in Mobile and Web application development.I love blogging. My blogs will be released soon !!.<br> Other than work, I have more interest in Volunteering. Currently I am volunteering with Bhumi for more than 4 years.<br> During my leisure time, I always sit with Social networking, Whatsapp. Like others, I am person who loves to hangout with Friends :)';
+    var aboutMe ='My name is <b>Imran</b>, and I am '+ getAge("1991/05/20")+' years old, Software Developer from Chennai who has been in the field for 3 years and counting.<br> I am a person who has interest in Mobile and Web application development.I love blogging. My blogs will be released soon !!.<br> Other than work, I have more interest in Volunteering. Currently I am volunteering with Bhumi for more than 4 years.<br> During my leisure time, I always sit with Social networking, Whatsapp. Like others, I am person who loves to hangout with Friends :)';
 
     $('#aboutMeText').text("");
     $('#aboutMeText').append(aboutMe);
