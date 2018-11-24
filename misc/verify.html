@@ -33,10 +33,19 @@
       var code = getQueryString('code'); // returns null
 
       <!-- Deep link URL for existing users with app already installed on their device -->
-      window.location = 'kaki://join?'+sportId+'#'+code;
+      var sportName = package.split('.')[1] != undefined ? package.split('.')[1] : "join";
+      window.location = package.split('.')[0]+'://'+package.split('.')[1]+'?'+sportId+'#'+code;
 
-      <!-- Download URL for new users to download the app -->
-      setTimeout("window.location = 'https://play.google.com/store/apps/details?id=app.kaki';", 1000);
+      var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+      if (/android/i.test(userAgent)) {
+        <!-- Download URL for new users to download the app -->
+        setTimeout("window.location = 'https://play.google.com/store/apps/details?id=app.kaki';", 1000);
+      }
+
+      if (/iPad|iPhone|iPod/.test(userAgent) && !window.MSStream) {
+          setTimeout("window.location = 'https://itunes.apple.com/us/app/kaki-buddy/id1244616928?mt=8';", 1000);
+      }
+      
     }
   </script>
 </head>
