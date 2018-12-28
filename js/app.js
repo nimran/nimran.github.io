@@ -168,7 +168,7 @@ function getAge(dateString) {
     return age;
 }
 function renderAboutMe(){
-    var aboutMe ='My name is <b>Imran</b>, and I am '+ getAge("1991/05/20")+' years old, Software Developer from Chennai who has been in the field for 3 years and counting.<br> I am a person who has interest in Mobile and Web application development.I love blogging. My blogs will be released soon !!.<br> Other than work, I have more interest in Volunteering. Currently I am volunteering with Bhumi for more than 4 years.<br> During my leisure time, I always sit with Social networking, Whatsapp. Like others, I am person who loves to hangout with Friends :)';
+    var aboutMe ='My name is <b>Imran</b>, and I am '+ getAge("1991/05/20")+' years old, Software Developer from Chennai, currently working in Singapore who has been in the field for 5+ years and counting.<br> I am a person who has interest in Mobile and Web application development.I love blogging. My blogs will be released soon !!.<br> Other than work, I have more interest in Volunteering. Currently I am volunteering with Bhumi for more than 4 years.<br> During my leisure time, I always sit with Social networking, Whatsapp. Like others, I am person who loves to hangout with Friends :)';
 
     $('#aboutMeText').text("");
     $('#aboutMeText').append(aboutMe);
